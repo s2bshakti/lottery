@@ -3,13 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="95c663a4-39bb-4c85-b9c0-55fde14d5850" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/javascripts/routers/entries.js.coffee" afterPath="$PROJECT_DIR$/app/assets/javascripts/routers/entries.js.coffee" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/javascripts/raffler.js.coffee" afterPath="$PROJECT_DIR$/app/assets/javascripts/raffler.js.coffee" />
     </list>
     <ignored path="raffler.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/index.html.erb" changelist="95c663a4-39bb-4c85-b9c0-55fde14d5850" time="1377518970848" ignored="false" />
     <file path="/routes.rb" changelist="95c663a4-39bb-4c85-b9c0-55fde14d5850" time="1377516632372" ignored="false" />
-    <file path="/entries.js.coffee" changelist="95c663a4-39bb-4c85-b9c0-55fde14d5850" time="1377519073384" ignored="false" />
+    <file path="/entries.js.coffee" changelist="95c663a4-39bb-4c85-b9c0-55fde14d5850" time="1377519470306" ignored="false" />
     <file path="/raffler.js.coffee" changelist="95c663a4-39bb-4c85-b9c0-55fde14d5850" time="1377519159437" ignored="false" />
     <file path="/Dummy.txt" changelist="95c663a4-39bb-4c85-b9c0-55fde14d5850" time="1377516456079" ignored="false" />
     <file path="/Gemfile" changelist="95c663a4-39bb-4c85-b9c0-55fde14d5850" time="1377516796543" ignored="false" />
@@ -70,19 +69,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="raffler.js.coffee" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="raffler.js.coffee" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/assets/javascripts/raffler.js.coffee">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="33" selection-start="147" selection-end="147" vertical-scroll-proportion="0.15957446">
+            <state line="9" column="27" selection-start="169" selection-end="169" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="entries.js.coffee" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="entries.js.coffee" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/assets/javascripts/routers/entries.js.coffee">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="18" selection-start="63" selection-end="63" vertical-scroll-proportion="0.0">
+            <state line="3" column="22" selection-start="102" selection-end="102" vertical-scroll-proportion="0.06838906">
               <folding />
             </state>
           </provider>
@@ -128,8 +127,8 @@
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/app/assets/javascripts/application.js" />
         <option value="$PROJECT_DIR$/app/views/main/index.html.erb" />
-        <option value="$PROJECT_DIR$/app/assets/javascripts/routers/entries.js.coffee" />
         <option value="$PROJECT_DIR$/app/assets/javascripts/raffler.js.coffee" />
+        <option value="$PROJECT_DIR$/app/assets/javascripts/routers/entries.js.coffee" />
       </list>
     </option>
   </component>
@@ -208,6 +207,32 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="raffler" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="raffler" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="entries" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -634,13 +659,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="24" width="1280" height="776" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -730,13 +755,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/views/entries/index.js.coffee">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/javascripts/application.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="22" column="18" selection-start="851" selection-end="851" vertical-scroll-proportion="0.0">
@@ -760,16 +778,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/routers/entries.js.coffee">
+    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/views/entries/index.js.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="18" selection-start="63" selection-end="63" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/javascripts/raffler.js.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="33" selection-start="147" selection-end="147" vertical-scroll-proportion="0.15957446">
+        <state line="9" column="27" selection-start="169" selection-end="169" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/routers/entries.js.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="22" selection-start="102" selection-end="102" vertical-scroll-proportion="0.06838906">
           <folding />
         </state>
       </provider>
