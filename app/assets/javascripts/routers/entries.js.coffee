@@ -3,7 +3,7 @@ class Raffler.Routers.Entries extends Backbone.Router
     '': 'index'
     'entries/:id': 'show'
   index: ->
-    alert "Home Page"
-
+    view = new Raffler.Views.EntriesIndex
+    $('#container').html(view.render().el)
   show: (id) ->
     alert "entry#{id}"
