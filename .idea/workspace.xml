@@ -2,15 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="95c663a4-39bb-4c85-b9c0-55fde14d5850" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/javascripts/application.js" afterPath="$PROJECT_DIR$/app/assets/javascripts/application.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/main/index.html.erb" afterPath="$PROJECT_DIR$/app/views/main/index.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/javascripts/routers/entries.js.coffee" afterPath="$PROJECT_DIR$/app/assets/javascripts/routers/entries.js.coffee" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/javascripts/raffler.js.coffee" afterPath="$PROJECT_DIR$/app/assets/javascripts/raffler.js.coffee" />
     </list>
     <ignored path="raffler.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/index.html.erb" changelist="95c663a4-39bb-4c85-b9c0-55fde14d5850" time="1377518970848" ignored="false" />
     <file path="/routes.rb" changelist="95c663a4-39bb-4c85-b9c0-55fde14d5850" time="1377516632372" ignored="false" />
-    <file path="/entries.js.coffee" changelist="95c663a4-39bb-4c85-b9c0-55fde14d5850" time="1377515935651" ignored="false" />
-    <file path="/raffler.js.coffee" changelist="95c663a4-39bb-4c85-b9c0-55fde14d5850" time="1377516177405" ignored="false" />
+    <file path="/entries.js.coffee" changelist="95c663a4-39bb-4c85-b9c0-55fde14d5850" time="1377519073384" ignored="false" />
+    <file path="/raffler.js.coffee" changelist="95c663a4-39bb-4c85-b9c0-55fde14d5850" time="1377519159437" ignored="false" />
     <file path="/Dummy.txt" changelist="95c663a4-39bb-4c85-b9c0-55fde14d5850" time="1377516456079" ignored="false" />
     <file path="/Gemfile" changelist="95c663a4-39bb-4c85-b9c0-55fde14d5850" time="1377516796543" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -61,10 +61,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html.erb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/main/index.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="10" selection-start="10" selection-end="10" vertical-scroll-proportion="0.0">
+            <state line="0" column="10" selection-start="10" selection-end="10" vertical-scroll-proportion="-0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="raffler.js.coffee" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/assets/javascripts/raffler.js.coffee">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="33" selection-start="147" selection-end="147" vertical-scroll-proportion="0.15957446">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="entries.js.coffee" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/assets/javascripts/routers/entries.js.coffee">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="18" selection-start="63" selection-end="63" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -106,12 +124,12 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/app/assets/javascripts/routers/entries.js.coffee" />
-        <option value="$PROJECT_DIR$/app/assets/javascripts/raffler.js.coffee" />
         <option value="$PROJECT_DIR$/config/routes.rb" />
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/app/assets/javascripts/application.js" />
         <option value="$PROJECT_DIR$/app/views/main/index.html.erb" />
+        <option value="$PROJECT_DIR$/app/assets/javascripts/routers/entries.js.coffee" />
+        <option value="$PROJECT_DIR$/app/assets/javascripts/raffler.js.coffee" />
       </list>
     </option>
   </component>
@@ -712,13 +730,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/models/entry.js.coffee">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/javascripts/views/entries/index.js.coffee">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -738,6 +749,27 @@
     <entry file="file://$PROJECT_DIR$/app/views/main/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="10" selection-start="10" selection-end="10" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/models/entry.js.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/routers/entries.js.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="18" selection-start="63" selection-end="63" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/raffler.js.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="33" selection-start="147" selection-end="147" vertical-scroll-proportion="0.15957446">
           <folding />
         </state>
       </provider>
