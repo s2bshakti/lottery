@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="95c663a4-39bb-4c85-b9c0-55fde14d5850" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/main.css.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/javascripts/views/entries/index.js.coffee" afterPath="$PROJECT_DIR$/app/assets/javascripts/views/entries/entries_index.js.coffee" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/javascripts/collections/entries.js.coffee" afterPath="$PROJECT_DIR$/app/assets/javascripts/collections/entries.js.coffee" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/javascripts/routers/entries.js.coffee" afterPath="$PROJECT_DIR$/app/assets/javascripts/routers/entries.js.coffee" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/templates/entries/index.jst.eco" afterPath="$PROJECT_DIR$/app/assets/templates/entries/index.jst.eco" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="raffler.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -18,7 +13,7 @@
     <file path="/Dummy.txt" changelist="95c663a4-39bb-4c85-b9c0-55fde14d5850" time="1377516456079" ignored="false" />
     <file path="/Gemfile" changelist="95c663a4-39bb-4c85-b9c0-55fde14d5850" time="1377516796543" ignored="false" />
     <file path="/index.js.coffee" changelist="95c663a4-39bb-4c85-b9c0-55fde14d5850" time="1377529595646" ignored="false" />
-    <file path="/index.jst.eco" changelist="95c663a4-39bb-4c85-b9c0-55fde14d5850" time="1377531097715" ignored="false" />
+    <file path="/index.jst.eco" changelist="95c663a4-39bb-4c85-b9c0-55fde14d5850" time="1377574579566" ignored="false" />
     <file path="/entries_controller.rb" changelist="95c663a4-39bb-4c85-b9c0-55fde14d5850" time="1377527437941" ignored="false" />
     <file path="/seeds.rb" changelist="95c663a4-39bb-4c85-b9c0-55fde14d5850" time="1377526326936" ignored="false" />
     <file path="/entry.js.coffee" changelist="95c663a4-39bb-4c85-b9c0-55fde14d5850" time="1377528191063" ignored="false" />
@@ -60,19 +55,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.jst.eco" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.jst.eco" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/assets/templates/entries/index.jst.eco">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="33" selection-start="53" selection-end="53" vertical-scroll-proportion="0.0">
+            <state line="10" column="37" selection-start="261" selection-end="261" vertical-scroll-proportion="0.22091311">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.css.scss" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="main.css.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/main.css.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="92" column="1" selection-start="1732" selection-end="1732" vertical-scroll-proportion="2.0324006">
+            <state line="92" column="1" selection-start="1732" selection-end="1732" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -108,8 +103,8 @@
         <option value="$PROJECT_DIR$/app/assets/javascripts/views/entries/index.js.coffee" />
         <option value="$PROJECT_DIR$/app/assets/javascripts/routers/entries.js.coffee" />
         <option value="$PROJECT_DIR$/app/assets/javascripts/views/entries/entries_index.js.coffee" />
-        <option value="$PROJECT_DIR$/app/assets/templates/entries/index.jst.eco" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/main.css.scss" />
+        <option value="$PROJECT_DIR$/app/assets/templates/entries/index.jst.eco" />
       </list>
     </option>
   </component>
@@ -904,16 +899,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/templates/entries/index.jst.eco">
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/main.css.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="33" selection-start="53" selection-end="53" vertical-scroll-proportion="0.0">
+        <state line="92" column="1" selection-start="1732" selection-end="1732" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/main.css.scss">
+    <entry file="file://$PROJECT_DIR$/app/assets/templates/entries/index.jst.eco">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="92" column="1" selection-start="1732" selection-end="1732" vertical-scroll-proportion="2.0324006">
+        <state line="10" column="37" selection-start="261" selection-end="261" vertical-scroll-proportion="0.22091311">
           <folding />
         </state>
       </provider>

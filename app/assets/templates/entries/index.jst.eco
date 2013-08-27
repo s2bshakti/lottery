@@ -1,6 +1,11 @@
-<h1>Great</h1>
+<h1>Lottery</h1>
+<form id="new_entry">
+<input type="text" name="name" id="new_entry_name">
+<input type="submit" value="Add">
+</form>
 <ul>
 <% for entry in @entries.models: %>
 <li><%= entry.get('name') %></li>
 <% end %>
 </ul>
+<input id="draw" value="Draw Winner">
